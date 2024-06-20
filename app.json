@@ -66,7 +66,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/Rq7mg/Hervanced"
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
           }
       ],
       "stack": "container"
