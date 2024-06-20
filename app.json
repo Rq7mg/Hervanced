@@ -1,5 +1,5 @@
 {
-    "name": "TGN MUSIC",
+    "name": "VancedMusicBot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/b5c8b5da501bb64508b10.jpg",
     "keywords": [
@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "28920866",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "833ed2af149085968fff77d2fd843f51",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6058282484:AAGhN89cxKjRUcIy6frPCiKokTTjqUyv3AQ",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://acha:acha@cluster0.pjq3j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6563936773",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @KavyaStringGeneratorBot on Telegram.",
-        "value": "",
+        "value": "BAG5TCIAEunSzAJLlRWtQdbheD2E96SqDJX-DudUNuQH4JHg9jUpgtQ5CUzhAKD35_gna4iDmIVdk7V1whGhDaucD5zrSrtx_smOaMtcPWQ9k_-_KRIHbyvxn-2U_hdchCaOia9e9B_fKqXGg0_zwByGmDo-ZTKXKlUdY0PF0vt_illMMTLG9U5-ZPkuSc68aK2dRggAg9PbsNx4ug8LZfJ95ygwZOaaKVfIG_1vAT7tdwpQIFxl4DeA1Bm1RQGEm2RSzmrd5bzs5c73zTzWLkgM63rX8Nh4lizSTOIfk4Xs-ZneKbmKFYA-k5txrNdNsq4sZTj8aZTRMSE0lL_bmvtxVVqpUwAAAAGXGGzwAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002216859133",
         "required": true
       }
     },
@@ -66,7 +66,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://github.com/Rq7mg/Hervanced"
           }
       ],
       "stack": "container"
