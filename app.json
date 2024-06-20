@@ -44,17 +44,17 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
-        "required": false
+        "value": "HRKU-0a573a2c-23ca-42a8-967b-b63032aeb6a9",
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
-        "required": false
+        "value": "vancedm",
+        "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "1002159822042",
+        "value": "-1002159822042",
         "required": true
       }
     },
